@@ -1,0 +1,8 @@
+numpy
+pillow
+opencv-python
+scikit-learn
+keras
+torch
+torchvision
+tensorflow==2.15.0
